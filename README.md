@@ -34,14 +34,18 @@ https://www.unrealengine.com/en-US/download
 • Then the project should start automatically in a few seconds.
 ## Screenshots
 
-![game_begin](https://github.com/ceydaecearslan/Wave_Spawner_Unreal_engine/blob/master/game_begin.png)
+Enemies Spawned:
 
-Enemies Spawned
+![game_begin](https://github.com/ceydaecearslan/Wave_Spawner_UnrealEngine/blob/main/game_begin.png)
 
-![enemies_attacking](https://github.com/ceydaecearslan/Wave_Spawner_Unreal_engine/blob/master/enemies_attacking.png)
 
-Enemies Attacking
+Enemies Attacking:
 
-![dead_player_and_enemy](https://github.com/ceydaecearslan/Wave_Spawner_Unreal_engine/blob/master/dead_player_and_enemy.png)
+![enemies_attacking](https://github.com/ceydaecearslan/Wave_Spawner_UnrealEngine/blob/main/enemies_attacking.png)
 
-A dead enemy and the dead player
+
+A dead enemy and the dead player:
+
+![dead_player_and_enemy](https://github.com/ceydaecearslan/Wave_Spawner_UnrealEngine/blob/main/dead_player_and_enemy.png)
+
+
