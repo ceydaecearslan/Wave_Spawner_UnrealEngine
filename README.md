@@ -29,7 +29,7 @@ https://www.unrealengine.com/en-US/download
   git clone https://github.com/ceydaecearslan/Wave_Spawner_UnrealEngine.git
 ```
 
-• Launch Unreal Engine. Click on the 'Browse' button below and select the directory where you cloned or extracted the ZIP the project.
+• Launch Unreal Engine. Click on the 'Browse' button below and select the directory where you cloned the project or extracted the ZIP.
 
 • Then the project should start automatically in a few seconds.
 ## Screenshots
